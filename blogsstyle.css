@@ -95,7 +95,7 @@ hr {
 .header-image {
     padding: 1rem;
     display: block;
-    max-width: 60%;
+    max-width: 400px;
     margin: 0 auto;
 }
 
