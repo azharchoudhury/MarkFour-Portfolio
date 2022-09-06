@@ -45,6 +45,14 @@ hr {
 
 }
 
+.link-primary:hover{
+    background-color: #fcd34d;
+    border-color: transparent;
+    color: white;
+    transition: 0.2s;
+    font-size: 1.1rem;
+}
+
 .project-btn{
     margin: 1rem;   
 }
